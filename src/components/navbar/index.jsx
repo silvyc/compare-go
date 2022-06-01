@@ -7,7 +7,7 @@ const NavBar = () => {
       name: "Home",
       path: "/",
     },
-    
+
     {
       name: "About",
       path: "/about",
@@ -20,9 +20,9 @@ const NavBar = () => {
       borderRadius="lg"
       width={{
         base: "auto",
-        md: 200,
-        lg: 300,
-        xl: 400,
+        md: 100,
+        lg: 150,
+        xl: 200,
       }}
       py={5}
     >
