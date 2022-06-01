@@ -36,10 +36,10 @@ export default function About() {
       </Text>
       <Stack
         direction={{
-          base: "column",
+          base: "row",
           "2xl": "column",
         }}
-        spacing="3rem"
+        spacing="5rem"
       >
         {students.map((student) => (
           <StudentAvatar {...student} />
