@@ -1,7 +1,7 @@
 import { Image, Text, VStack, HStack } from "@chakra-ui/react";
 
 const StudentAvatar = ({ name, email, image, code }) => (
-  <HStack
+  <VStack
     spacing="25px"
     alignItems="center"
     borderWidth="1px"
@@ -26,7 +26,7 @@ const StudentAvatar = ({ name, email, image, code }) => (
       <Text align={"left"}>{email}</Text>
       <Text align={"left"}>Codigo Estudiantil: {code}</Text>
     </VStack>
-  </HStack>
+  </VStack>
 );
 
 export default StudentAvatar;
