@@ -23,7 +23,7 @@ const NavBar = () => {
 
   return (
     <Box
-      bg={"cokiBlue.500"}
+      bg={"cokiBlue.400"}
       borderRadius="lg"
       width={{
         base: "auto",
