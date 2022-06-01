@@ -15,7 +15,7 @@ const Header = () => (
       minHeight="8vh"
       px="2rem"
     >
-      <Logo src="COVID NEWS.png" />
+      <Logo src="LOGOHd.png" />
       <Logo src="Logo-UNINORTE.png" />
     </Stack>
   </Box>

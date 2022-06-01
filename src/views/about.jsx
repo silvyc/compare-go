@@ -14,6 +14,18 @@ const students = [
     image: "JuanPadilla",
     code: "200145173",
   },
+  {
+    name: "Giuliano Frieri",
+    email: "gfrieri@uninorte.edu.co",
+    image: "GiulianoFrieri",
+    code: "200143780",
+  },
+  {
+    name: "Roberto Maldonado",
+    email: "rmaldonadoe@uninorte.edu.co",
+    image: "RobertoMaldonado",
+    code: "200144264",
+  },
 ];
 
 export default function About() {

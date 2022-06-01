@@ -7,14 +7,7 @@ const NavBar = () => {
       name: "Home",
       path: "/",
     },
-    {
-      name: "Countrywise Graphs",
-      path: "/country",
-    },
-    {
-      name: "Daywise Graphs",
-      path: "/daily",
-    },
+    
     {
       name: "About",
       path: "/about",
