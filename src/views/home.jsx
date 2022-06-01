@@ -20,8 +20,7 @@ export default function Home() {
             small liquid particles when they cough, sneeze, speak, sing or
             breathe. These particles range from larger respiratory droplets to
             smaller aerosols. It is important to practice respiratory etiquette,
-            for example by coughing into a flexed elbow, and to stay home and
-            self-isolate until you recover if you feel unwell.
+            for example 
           </Text>
         </Box>
         <Box>
