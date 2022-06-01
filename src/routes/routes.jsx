@@ -7,9 +7,7 @@ import Home from "../views/home";
 const Routing = () => (
   <Routes>
     <Route path="/" element={<Home />} />
-    <Route path="/daily" element={<Daily />} />
     <Route path="/about" element={<About />} />
-    <Route path="/country" element={<Country />} />
   </Routes>
 );
 
