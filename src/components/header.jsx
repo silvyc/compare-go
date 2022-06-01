@@ -11,7 +11,7 @@ const Header = () => (
       }}
       justifyContent="space-between"
       alignItems="center"
-      bgColor="cokiBlue.400"
+      bgColor="cokiBlue.500"
       minHeight="8vh"
       px="2rem"
     >

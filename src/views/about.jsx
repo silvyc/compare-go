@@ -37,7 +37,7 @@ export default function About() {
       <Stack
         direction={{
           base: "column",
-          "2xl": "row",
+          "2xl": "column",
         }}
         spacing="3rem"
       >
