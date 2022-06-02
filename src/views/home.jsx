@@ -28,7 +28,7 @@ export default function Home() {
           "2xl": "row",
         }}
         alignItems="center"
-        spacing="30rem"
+        spacing="5rem"
       >
           <Image src={`/img/d1Prod.png`}/>
           <Image src={`/img/jumboProd.png`}/>
