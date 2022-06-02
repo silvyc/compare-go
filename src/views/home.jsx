@@ -1,4 +1,4 @@
-import { Box, Stack, StackDivider, Text, VStack } from "@chakra-ui/react";
+import { Box, Image, Stack, StackDivider, Text, VStack } from "@chakra-ui/react";
 import LogoH from "../components/logohome";
 
 export default function Home() {
