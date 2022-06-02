@@ -15,6 +15,7 @@ export default function Home() {
           base: "column",
           "2xl": "row",
         }}
+        alignItems="center"
         spacing="30rem"
       >
           <LogoH src="Logo_D1.png" />
