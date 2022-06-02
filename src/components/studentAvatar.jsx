@@ -8,8 +8,9 @@ const StudentAvatar = ({ name, email, image, code }) => (
     borderRadius="lg"
     transition={["ease-in-out", "0.15s"]}
     _hover={{
-      borderColor: "cokiBlue.400",
+    borderColor: "cokiBlue.400",
     }}
+    bgColor={"#F1FBEB"}
     px={10}
     py={6}
   >

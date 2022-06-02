@@ -31,7 +31,7 @@ const students = [
 export default function About() {
   return (
     <Box>
-      <Text fontSize="4xl" align={"center"} mb={5}>
+      <Text color ={"#08b504"} fontSize="4xl" align={"center"} mb={5}>
         About us
       </Text>
       <Stack
@@ -42,7 +42,7 @@ export default function About() {
         spacing="5rem"
       >
         {students.map((student) => (
-          <StudentAvatar {...student} />
+          <StudentAvatar  {...student} />
         ))}
       </Stack>
     </Box>

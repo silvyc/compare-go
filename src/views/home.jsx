@@ -1,4 +1,4 @@
-import { AspectRatio, Box, HStack, Stack, StackDivider, Text, VStack } from "@chakra-ui/react";
+import { Box, Stack, StackDivider, Text, VStack } from "@chakra-ui/react";
 import LogoH from "../components/logohome";
 
 export default function Home() {
@@ -18,8 +18,8 @@ export default function Home() {
         spacing="30rem"
       >
           <LogoH src="Logo_D1.png" />
+          <LogoH src="Logo_Jumbo.png" />
           <LogoH src="Logo_Olimpica.png" />
-          <LogoH src="Logo_Exito.png" />
         </Stack>
         </Box>
       </VStack>

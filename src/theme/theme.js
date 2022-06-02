@@ -4,7 +4,14 @@ export const theme = extendTheme({
   colors: {
     cokiBlue: {
       400: "#08b504",
-      500: "#e2f2e2",
+      500: "#CCF3CC",
     },
+  },
+  styles: {
+    global: (props) => ({
+      body: {
+        bg: "#E2F9E2"
+      }
+    })
   },
 });
