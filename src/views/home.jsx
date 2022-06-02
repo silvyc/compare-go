@@ -22,6 +22,18 @@ export default function Home() {
           <LogoH src="Logo_Jumbo.png" />
           <LogoH src="Logo_Olimpica.png" />
         </Stack>
+        <Stack
+        direction={{
+          base: "column",
+          "2xl": "row",
+        }}
+        alignItems="center"
+        spacing="30rem"
+      >
+          <Image src={`/img/d1Prod.png`}/>
+          <Image src={`/img/jumboProd.png`}/>
+          <Image src={`/img/olimpicaProd.png`}/>
+        </Stack>
         </Box>
       </VStack>
     </Box>
