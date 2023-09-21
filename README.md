@@ -1,2 +1,1 @@
-# compare-go
-Ayano no me pegues
+# compare-n-go
